@@ -1,0 +1,3 @@
+*.cpp
+executables/
+.DS_Store
